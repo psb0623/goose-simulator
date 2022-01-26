@@ -9,8 +9,8 @@
 ***
 
 ### A. 개발 팀원  
-* POSTECH 컴퓨터공학과 [김민결](https://github.com/KimMingyeol) 
-* KAIST 전산학부 [박수빈](https://github.com/psb0623)  
+* POSTECH 컴퓨터공학과 19학번 [김민결](https://github.com/KimMingyeol) 
+* KAIST 전산학부 19학번 [박수빈](https://github.com/psb0623)  
 ***
 
 ### B. 개발 환경  
