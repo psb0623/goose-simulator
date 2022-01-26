@@ -62,5 +62,6 @@
 
 가짜 거위가 소환하는 거위에 적대적인 거대 인공지능 로봇입니다.
 
+![image](https://user-images.githubusercontent.com/81062893/151123807-3345eb97-dda8-4623-92cb-2ff4e123aee8.png)
 
 
