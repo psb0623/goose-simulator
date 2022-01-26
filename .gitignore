@@ -14,3 +14,4 @@
 /Plugins
 *.sln
 *_BuiltData.uasset
+/Content/OriMap.umap
