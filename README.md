@@ -45,25 +45,25 @@
 
 #### 일반 거위
 
-![normal](https://user-images.githubusercontent.com/81062893/151349653-19cf9c7b-ff2f-4d7c-975f-91cc33e82508.PNG)
+![normal](https://user-images.githubusercontent.com/68853120/151887915-7b5f89a2-0d4a-46a9-a130-8fc9925d57af.png)
 
 일반적인 거위입니다.
 
 #### 스피드 거위
 
-![speedduck](https://user-images.githubusercontent.com/81062893/151349670-47ea4645-37ae-4d75-b0cd-2b430e73db65.PNG)
+![speedduck](https://user-images.githubusercontent.com/68853120/151887964-df4b16a2-8e70-40ce-af13-db35d07826dd.png)
 
 동료가 되면 플레이어의 이동 속도가 크게 증가합니다.
 
 #### 밀리터리 거위
 
-![milduck](https://user-images.githubusercontent.com/81062893/151349717-f1ed7ef6-443d-4a3b-ab85-a9304cfedc8a.PNG)
+![milduck](https://user-images.githubusercontent.com/68853120/151888036-ca096de4-ec59-4afd-8b83-376ab892540f.png)
 
 동료가 되면 플레이어가 미사일을 발사할 수 있습니다.
 
 #### 가짜 거위
 
-![badduck](https://user-images.githubusercontent.com/81062893/151349741-9f8b05a5-2883-4a01-81df-c1ffce53b19c.PNG)
+![badduck](https://user-images.githubusercontent.com/68853120/151888073-389c3286-8e71-49b7-91dd-36305cec2800.png)
 
 거위를 속여서 잡기 위해 제작된 것으로 보이는 가짜 오리입니다. 가까이 가면 거위에 적대적인 필드 보스를 소환합니다.
 
@@ -73,8 +73,7 @@
 
 가짜 거위가 소환하는 적대적인 거대 인공지능 로봇입니다.
 
-![image](https://user-images.githubusercontent.com/81062893/151123807-3345eb97-dda8-4623-92cb-2ff4e123aee8.png)
-
+![image](https://user-images.githubusercontent.com/68853120/151888101-7d35445b-3c69-43e9-a293-f20fbeee2b5b.png)
 
 
 
