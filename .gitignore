@@ -1,0 +1,17 @@
+/Content/Collections
+/Content/Developers
+/Content/LPGenericPropsSet06
+/Content/MS_AsphaltEss
+/Content/MS_CleanBrick
+/Content/PN_GrassLibrary
+/Content/PN_interactiveSpruceForest
+/Content/PN_OpenWorldFoliage
+/Content/STF
+/Saved
+/Intermediate
+/.vs
+/Build
+/Plugins
+*.sln
+*_BuiltData.uasset
+/Content/OriMap.umap
