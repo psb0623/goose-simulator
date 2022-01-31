@@ -5,7 +5,8 @@
 * 카이스트 캠퍼스를 탐험하며 거위 동료들을 모을 수 있습니다.
 * 하지만 가짜 거위를 건드리면 큰일날지도?
 
-![main](https://user-images.githubusercontent.com/81062893/151349206-1f10a094-4b8a-43ba-b07e-9bc28e73daa5.PNG)
+![main](https://user-images.githubusercontent.com/68853120/151886756-dcad0325-2cb7-46cc-a830-6dc0a2b6726c.png)
+
 ***
 
 ### A. 개발 팀원  
