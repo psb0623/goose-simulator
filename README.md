@@ -59,7 +59,7 @@
 
 ![milduck](https://user-images.githubusercontent.com/68853120/151888036-ca096de4-ec59-4afd-8b83-376ab892540f.png)
 
-동료가 되면 플레이어가 미사일을 발사할 수 있습니다.
+동료가 되면 플레이어가 Q를 눌러 미사일을 발사할 수 있습니다.
 
 #### 가짜 거위
 
